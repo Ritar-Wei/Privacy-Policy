@@ -8,7 +8,7 @@ This information helps us enhance the app's quality and performance, and it is s
 
 ### **User Data**
 
-When using **Bluetooth Li APP**, your data is stored only on your device, and our team cannot access it.
+When using **Bluetooth APP**, your data is stored only on your device, and our team cannot access it.
 
 ### **User Data Deletion**
 
@@ -36,4 +36,4 @@ By using the Bluetooth Codec Changer App means that you agree with the terms and
 
 ### **Contact Us**
 
-If you have any questions or suggestions, please feel free to email us at info@ritarpower.com or huweibinrichpower@gmail.com. Our dedicated team will be more than happy to assist you.
+If you have any questions or suggestions, please feel free to email us at huweibinrichpower@gmail.com. Our dedicated team will be more than happy to assist you.
